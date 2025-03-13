@@ -7,8 +7,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## 📒 Table of Contents
 - [Awesome-Reasoning-MLLM](#awesome-reasoning-mllm)
-  - [Post-Training / Reinforcement Learning](#reinforcement-learning)
-  - [Tree Search / MCTS](#mcts--tree-search)
+  - [Post-Training / Reinforcement Learning](#post-training--reinforcement-learning)
+  - [Tree Search / MCTS](#tree-search--mcts)
   - [SFT / CoT](#sft--cot)
   - [Data](#data)
 
