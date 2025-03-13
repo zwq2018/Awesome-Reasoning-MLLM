@@ -8,15 +8,17 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ## 📒 Table of Contents
 
 ## Reinforcement Learning
+* [Vision-R1] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [[Paper📑]](https://arxiv.org/abs/2503.06749) [[Code🔧]](https://arxiv.org/abs/2503.06749)
+* [R1-V] R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3 [[Code🔧]](https://github.com/Deep-Agent/R1-V)
 
 ## MCTS/Tree Search
-* [AStar] Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [Paper](https://arxiv.org/abs/2502.02339)
+* [AStar] Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [[Paper📑]](https://arxiv.org/abs/2502.02339)
 * [Mulberry] Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search [[Paper📑]](https://arxiv.org/abs/2412.18319) [[Code🔧]](https://github.com/HJYao00/Mulberry) 
 
-## Test-time Reasoning
+<!--## Test-time Reasoning-->
 
 ## CoT
-* [LLaVA-CoT] [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)
+* [LLaVA-CoT] LLaVA-CoT: Let Vision Language Models Reason Step-by-Step [[Paper📑]](https://arxiv.org/abs/2411.10440) [[Code🔧]](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 
 ## Data
 * [Mulberry 260K SFT] Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search [[Paper📑]](https://arxiv.org/abs/2412.18319) [[Code🔧]](https://github.com/HJYao00/Mulberry) 
