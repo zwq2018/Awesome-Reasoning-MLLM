@@ -13,12 +13,14 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   - [Data](#data)
 
 ## Post-Training / Reinforcement Learning
+* [R1-VL, 2503] R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[Paper📑]](https://arxiv.org/abs/2503.12937)[[Code🔧]](https://github.com/jingyi0000/R1-VL)
 * [Vision-R1, 2503] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [[Paper📑]](https://arxiv.org/abs/2503.06749) [[Code🔧]](https://arxiv.org/abs/2503.06749)
 * [VisualThinker-R1-Zero, 2503] R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Paper📑]](https://arxiv.org/pdf/2503.05132) [[Code🔧]](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
 * [MM-Eureka, 2503] MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2503.07365) [[Code🔧]](https://github.com/ModalMinds/MM-EUREKA)
 * [Visual-RFT, 2503] Visual-RFT: Visual Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2503.01785) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT)
 * [VLM-R1] VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[Code🔧]](https://github.com/om-ai-lab/VLM-R1/tree/main?tab=readme-ov-file)
 * [R1-V, 2502] R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3 [[Code🔧]](https://github.com/Deep-Agent/R1-V)
+
 
 ## Tree Search / MCTS
 * [AStar, 2502] Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [[Paper📑]](https://arxiv.org/abs/2502.02339)
