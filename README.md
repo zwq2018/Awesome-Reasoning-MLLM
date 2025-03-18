@@ -13,6 +13,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   - [Data](#data)
 
 ## Post-Training / Reinforcement Learning
+* [LMM-R1, 2503] LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities [[Paper📑]](https://arxiv.org/pdf/2503.07536)[[Code🔧]](https://github.com/TideDra/lmm-r1)
 * [R1-VL, 2503] R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[Paper📑]](https://arxiv.org/abs/2503.12937)[[Code🔧]](https://github.com/jingyi0000/R1-VL)
 * [Vision-R1, 2503] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [[Paper📑]](https://arxiv.org/abs/2503.06749) [[Code🔧]](https://arxiv.org/abs/2503.06749)
 * [VisualThinker-R1-Zero, 2503] R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Paper📑]](https://arxiv.org/pdf/2503.05132) [[Code🔧]](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
