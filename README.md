@@ -30,6 +30,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 <!--## Test-time Reasoning-->
 
 ##  SFT / CoT
+* [Embodied Reasoner, 2503] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Paper📑]](https://arxiv.org/abs/2503.21696) [[Code🔧]](https://github.com/zwq2018/embodied_reasoner)
 * [MM-Verify, 2502] MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification [[Paper📑]](https://www.arxiv.org/abs/2502.13383) [[Code🔧]](https://github.com/Aurora-slz/MM-Verify)
 * [LlamaV-o1, 2501] LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs [[Paper📑]](https://arxiv.org/abs/2501.06186) [[Code🔧]](https://github.com/mbzuai-oryx/LlamaV-o1)
 * [Insight-V, 2411] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[Paper📑]](https://arxiv.org/abs/2411.14432) [[Code🔧]](https://github.com/dongyh20/Insight-V)
